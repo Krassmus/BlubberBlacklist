@@ -1,0 +1,5 @@
+pluginname=BlubberBlacklist
+pluginclassname=BlubberBlacklist
+origin=data-quest
+version=1.0
+studipMinVersion=4.5
